@@ -1,0 +1,1 @@
+# bsc-interactive-tasks-for-the-first-course
